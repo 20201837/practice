@@ -2,34 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="95a26c1b-29d6-4c68-8748-6910a886f6b0" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../../.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../.idea/libraries/practice.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../.idea/uiDesigner.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../out/production/practice/META-INF/MANIFEST.MF" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../out/production/practice/practice/Effectiveness.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../out/production/practice/practice/Family.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../out/production/practice/practice/GuessNumber.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../out/production/practice/practice/GuessNumber2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../out/production/practice/practice/Land.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../out/production/practice/practice/MainClass.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../out/production/practice/practice/Number.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../out/production/practice/practice/Number2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../out/production/practice/practice/Number3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../out/production/practice/practice/Person.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../out/production/practice/practice/SquareEquation.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../out/production/practice/practice/SunRise.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../out/production/practice/practice/TV.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../out/production/practice/practice/User.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../out/production/practice/practice/Vehicle.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../out/production/practice/practice/Village.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../out/production/practice/practice/Xiti.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../practice.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../META-INF/MANIFEST.MF" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SquareEquation.java" beforeDir="false" afterPath="$PROJECT_DIR$/SquareEquation.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SunRise.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../src/practice/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../src/practice/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,7 +11,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../../.." />
   </component>
   <component name="ProjectId" id="1rFxSOgDT54NYmoc6gh7tctTWoQ" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -70,5 +44,6 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
 </project>

@@ -2,34 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="20474d4e-74d9-4660-9a4b-2e79b5905636" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/libraries/practice.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/uiDesigner.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../out/production/practice/META-INF/MANIFEST.MF" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../out/production/practice/practice/Effectiveness.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../out/production/practice/practice/Family.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../out/production/practice/practice/GuessNumber.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../out/production/practice/practice/GuessNumber2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../out/production/practice/practice/Land.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../out/production/practice/practice/MainClass.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../out/production/practice/practice/Number.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../out/production/practice/practice/Number2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../out/production/practice/practice/Number3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../out/production/practice/practice/Person.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../out/production/practice/practice/SquareEquation.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../out/production/practice/practice/SunRise.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../out/production/practice/practice/TV.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../out/production/practice/practice/User.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../out/production/practice/practice/Vehicle.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../out/production/practice/practice/Village.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../out/production/practice/practice/Xiti.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../practice.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/META-INF/MANIFEST.MF" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/practice/SquareEquation.java" beforeDir="false" afterPath="$PROJECT_DIR$/practice/SquareEquation.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/practice/SunRise.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/practice/practice/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../out/production/practice/practice/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/practice/practice/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../out/production/practice/practice/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/practice/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/practice/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />

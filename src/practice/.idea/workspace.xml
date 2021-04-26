@@ -2,39 +2,56 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="95a26c1b-29d6-4c68-8748-6910a886f6b0" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../../.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../.idea/libraries/practice.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../.idea/uiDesigner.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../out/production/practice/META-INF/MANIFEST.MF" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../out/production/practice/practice/Effectiveness.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../out/production/practice/practice/Family.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../out/production/practice/practice/GuessNumber.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../out/production/practice/practice/GuessNumber2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../out/production/practice/practice/Land.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../out/production/practice/practice/MainClass.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../out/production/practice/practice/Number.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../out/production/practice/practice/Number2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../out/production/practice/practice/Number3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../out/production/practice/practice/Person.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../out/production/practice/practice/SquareEquation.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../out/production/practice/practice/SunRise.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../out/production/practice/practice/TV.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../out/production/practice/practice/User.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../out/production/practice/practice/Vehicle.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../out/production/practice/practice/Village.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../out/production/practice/practice/Xiti.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../practice.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../META-INF/MANIFEST.MF" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SquareEquation.java" beforeDir="false" afterPath="$PROJECT_DIR$/SquareEquation.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SunRise.java" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/src.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exampleAbstract1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/polymorphism/Upcasting1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../out/production/practice/practice/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../out/production/practice/practice/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../out/production/practice/practice/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../out/production/practice/practice/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AmericanPeople.java" beforeDir="false" afterPath="$PROJECT_DIR$/practice/AmericanPeople.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bank.java" beforeDir="false" afterPath="$PROJECT_DIR$/practice/Bank.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BankOfCommerce.java" beforeDir="false" afterPath="$PROJECT_DIR$/practice/BankOfCommerce.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BankOfDalian.java" beforeDir="false" afterPath="$PROJECT_DIR$/practice/BankOfDalian.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BeijingPeople.java" beforeDir="false" afterPath="$PROJECT_DIR$/practice/BeijingPeople.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ChinaPeople.java" beforeDir="false" afterPath="$PROJECT_DIR$/practice/ChinaPeople.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CompanySalary.java" beforeDir="false" afterPath="$PROJECT_DIR$/practice/CompanySalary.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ConstructionBank.java" beforeDir="false" afterPath="$PROJECT_DIR$/practice/ConstructionBank.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Effectiveness.java" beforeDir="false" afterPath="$PROJECT_DIR$/practice/Effectiveness.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Example.java" beforeDir="false" afterPath="$PROJECT_DIR$/practice/Example.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Family.java" beforeDir="false" afterPath="$PROJECT_DIR$/practice/Family.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GuessNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/practice/GuessNumber.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GuessNumber2.java" beforeDir="false" afterPath="$PROJECT_DIR$/practice/GuessNumber2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Land.java" beforeDir="false" afterPath="$PROJECT_DIR$/practice/Land.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MainClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/practice/MainClass.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Number.java" beforeDir="false" afterPath="$PROJECT_DIR$/practice/Number.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Number2.java" beforeDir="false" afterPath="$PROJECT_DIR$/practice/Number2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Number3.java" beforeDir="false" afterPath="$PROJECT_DIR$/practice/Number3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/People.java" beforeDir="false" afterPath="$PROJECT_DIR$/practice/People.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/practice/Person.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SaveMoney.java" beforeDir="false" afterPath="$PROJECT_DIR$/practice/SaveMoney.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SquareEquation.java" beforeDir="false" afterPath="$PROJECT_DIR$/practice/SquareEquation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SunRise.java" beforeDir="false" afterPath="$PROJECT_DIR$/practice/SunRise.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TV.java" beforeDir="false" afterPath="$PROJECT_DIR$/practice/TV.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/practice/User.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vehicle.java" beforeDir="false" afterPath="$PROJECT_DIR$/practice/Vehicle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Village.java" beforeDir="false" afterPath="$PROJECT_DIR$/practice/Village.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/practice.iml" beforeDir="false" afterPath="$PROJECT_DIR$/practice.iml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
@@ -46,8 +63,37 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Documents/Tencent Files/2848718426/FileRecv/jar create.jar" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Upcasting1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="polymorphism.Upcasting1" />
+      <module name="practice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="polymorphism.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Upcasting1" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -70,5 +116,6 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
 </project>
