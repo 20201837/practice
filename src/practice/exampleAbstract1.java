@@ -1,4 +1,2 @@
-abstract class exampleAbstract1 {
-    public static void main(String[] args) {
-    }
+public class exampleAbstract1 {
 }
