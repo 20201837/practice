@@ -1,23 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="95a26c1b-29d6-4c68-8748-6910a886f6b0" name="Default Changelist" comment="Merge remote-tracking branch 'origin/master'&#10;&#10;# Conflicts:&#10;#&#9;src/practice/SquareEquation.java&#10;#&#9;src/practice/SunRise.java">
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/FileRecv.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/music/Brass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/music/Instrument.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/music/Music3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/music/NewInstrument.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/music/Note.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/music/Percussion.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/music/Stringed.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/music/Wind.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/music/WoodWind.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exampleAbstract1.java" beforeDir="false" afterPath="$PROJECT_DIR$/exampleAbstract1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/practice/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/practice/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/practice.iml" beforeDir="false" afterPath="$PROJECT_DIR$/practice.iml" afterDir="false" />
-    </list>
+    <list default="true" id="95a26c1b-29d6-4c68-8748-6910a886f6b0" name="Default Changelist" comment="Merge remote-tracking branch 'origin/master'&#10;&#10;# Conflicts:&#10;#&#9;src/practice/SquareEquation.java&#10;#&#9;src/practice/SunRise.java" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -29,6 +13,9 @@
         <option value="Class" />
       </list>
     </option>
+  </component>
+  <component name="Git.Rebase.Settings">
+    <option name="NEW_BASE" value="master" />
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
@@ -123,7 +110,21 @@
       <option name="project" value="LOCAL" />
       <updated>1619789309766</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Merge remote-tracking branch 'origin/master'&#10;&#10;# Conflicts:&#10;#&#9;src/practice/SquareEquation.java&#10;#&#9;src/practice/SunRise.java">
+      <created>1619796603002</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1619796603002</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Merge remote-tracking branch 'origin/master'&#10;&#10;# Conflicts:&#10;#&#9;src/practice/SquareEquation.java&#10;#&#9;src/practice/SunRise.java">
+      <created>1619796674104</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1619796674104</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
