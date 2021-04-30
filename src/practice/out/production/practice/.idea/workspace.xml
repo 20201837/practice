@@ -1,46 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="95a26c1b-29d6-4c68-8748-6910a886f6b0" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../.idea/src.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exampleAbstract1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/polymorphism/Cycle2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/polymorphism/Upcasting1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../out/production/practice/practice/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../out/production/practice/practice/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../out/production/practice/practice/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../out/production/practice/practice/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+    <list default="true" id="95a26c1b-29d6-4c68-8748-6910a886f6b0" name="Default Changelist" comment="Merge remote-tracking branch 'origin/master'&#10;&#10;# Conflicts:&#10;#&#9;src/practice/SquareEquation.java&#10;#&#9;src/practice/SunRise.java">
+      <change afterPath="$PROJECT_DIR$/polymorphism/Upcasting2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AmericanPeople.java" beforeDir="false" afterPath="$PROJECT_DIR$/practice/AmericanPeople.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bank.java" beforeDir="false" afterPath="$PROJECT_DIR$/practice/Bank.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BankOfCommerce.java" beforeDir="false" afterPath="$PROJECT_DIR$/practice/BankOfCommerce.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BankOfDalian.java" beforeDir="false" afterPath="$PROJECT_DIR$/practice/BankOfDalian.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BeijingPeople.java" beforeDir="false" afterPath="$PROJECT_DIR$/practice/BeijingPeople.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ChinaPeople.java" beforeDir="false" afterPath="$PROJECT_DIR$/practice/ChinaPeople.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CompanySalary.java" beforeDir="false" afterPath="$PROJECT_DIR$/practice/CompanySalary.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ConstructionBank.java" beforeDir="false" afterPath="$PROJECT_DIR$/practice/ConstructionBank.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Effectiveness.java" beforeDir="false" afterPath="$PROJECT_DIR$/practice/Effectiveness.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Example.java" beforeDir="false" afterPath="$PROJECT_DIR$/practice/Example.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Family.java" beforeDir="false" afterPath="$PROJECT_DIR$/practice/Family.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GuessNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/practice/GuessNumber.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GuessNumber2.java" beforeDir="false" afterPath="$PROJECT_DIR$/practice/GuessNumber2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Land.java" beforeDir="false" afterPath="$PROJECT_DIR$/practice/Land.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MainClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/practice/MainClass.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Number.java" beforeDir="false" afterPath="$PROJECT_DIR$/practice/Number.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Number2.java" beforeDir="false" afterPath="$PROJECT_DIR$/practice/Number2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Number3.java" beforeDir="false" afterPath="$PROJECT_DIR$/practice/Number3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/People.java" beforeDir="false" afterPath="$PROJECT_DIR$/practice/People.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/practice/Person.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SaveMoney.java" beforeDir="false" afterPath="$PROJECT_DIR$/practice/SaveMoney.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SquareEquation.java" beforeDir="false" afterPath="$PROJECT_DIR$/practice/SquareEquation.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SunRise.java" beforeDir="false" afterPath="$PROJECT_DIR$/practice/SunRise.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TV.java" beforeDir="false" afterPath="$PROJECT_DIR$/practice/TV.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/practice/User.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Vehicle.java" beforeDir="false" afterPath="$PROJECT_DIR$/practice/Vehicle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Village.java" beforeDir="false" afterPath="$PROJECT_DIR$/practice/Village.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/practice.iml" beforeDir="false" afterPath="$PROJECT_DIR$/practice.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/polymorphism/Upcasting1.java" beforeDir="false" afterPath="$PROJECT_DIR$/polymorphism/Upcasting1.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -76,7 +40,7 @@
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.Upcasting2">
     <configuration name="Upcasting1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="polymorphism.Upcasting1" />
       <module name="practice" />
@@ -90,8 +54,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Upcasting2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="polymorphism.Upcasting2" />
+      <module name="practice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="polymorphism.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Upcasting2" />
         <item itemvalue="Application.Upcasting1" />
       </list>
     </recent_temporary>
@@ -105,6 +83,28 @@
       <option name="presentableId" value="Default" />
       <updated>1618585637987</updated>
     </task>
+    <task id="LOCAL-00001" summary="初始创建">
+      <created>1619535019406</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1619535019406</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Merge remote-tracking branch 'origin/master'&#10;&#10;# Conflicts:&#10;#&#9;src/practice/SquareEquation.java&#10;#&#9;src/practice/SunRise.java">
+      <created>1619535071474</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1619535071474</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Merge remote-tracking branch 'origin/master'&#10;&#10;# Conflicts:&#10;#&#9;src/practice/SquareEquation.java&#10;#&#9;src/practice/SunRise.java">
+      <created>1619535350035</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1619535350035</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -118,5 +118,10 @@
       </map>
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="初始创建" />
+    <MESSAGE value="Merge remote-tracking branch 'origin/master'&#10;&#10;# Conflicts:&#10;#&#9;src/practice/SquareEquation.java&#10;#&#9;src/practice/SunRise.java" />
+    <option name="LAST_COMMIT_MESSAGE" value="Merge remote-tracking branch 'origin/master'&#10;&#10;# Conflicts:&#10;#&#9;src/practice/SquareEquation.java&#10;#&#9;src/practice/SunRise.java" />
   </component>
 </project>

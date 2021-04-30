@@ -2,9 +2,21 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="95a26c1b-29d6-4c68-8748-6910a886f6b0" name="Default Changelist" comment="Merge remote-tracking branch 'origin/master'&#10;&#10;# Conflicts:&#10;#&#9;src/practice/SquareEquation.java&#10;#&#9;src/practice/SunRise.java">
-      <change afterPath="$PROJECT_DIR$/polymorphism/Upcasting2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/FileRecv.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/music/Brass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/music/Instrument.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/music/Music3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/music/NewInstrument.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/music/Note.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/music/Percussion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/music/Stringed.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/music/Wind.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/music/WoodWind.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/polymorphism/Upcasting1.java" beforeDir="false" afterPath="$PROJECT_DIR$/polymorphism/Upcasting1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exampleAbstract1.java" beforeDir="false" afterPath="$PROJECT_DIR$/exampleAbstract1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/practice/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/practice/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/practice.iml" beforeDir="false" afterPath="$PROJECT_DIR$/practice.iml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,7 +47,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$USER_HOME$/Documents/Tencent Files/2848718426/FileRecv/jar create.jar" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Documents/Tencent Files/2848718426/FileRecv" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -104,7 +116,14 @@
       <option name="project" value="LOCAL" />
       <updated>1619535350035</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Merge remote-tracking branch 'origin/master'&#10;&#10;# Conflicts:&#10;#&#9;src/practice/SquareEquation.java&#10;#&#9;src/practice/SunRise.java">
+      <created>1619789309766</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1619789309766</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
