@@ -1,2 +1,3 @@
-public class exampleAbstract1 {
+abstract class exampleAbstract1 {
+    public static void main(){}
 }
